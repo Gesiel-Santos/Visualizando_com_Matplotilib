@@ -6,4 +6,4 @@ O conjunto de dados Iris.csv tem informações sobre o comprimento e a largura d
 
 No notebook, usei as funções plt.plot, plt.scatter, plt.bar e plt.pie para criar gráficos de linha, dispersão, barras e pizza, respectivamente. também usei os parâmetros color, label, title, xlabel, ylabel e legend para personalizar os seus gráficos.
 
-O objetivo deste projeto é explorar e visualizar as características das diferentes espécies de Iris, como comprimento e largura da sépala e da pétala
+O objetivo deste projeto é explorar e visualizar as características das diferentes espécies de Iris, como comprimento e largura da sépala e da pétala.
